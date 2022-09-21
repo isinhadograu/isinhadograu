@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @isinhadograu
-- 👀 I’m interested in piru
-- 🌱 I’m currently learning nada porque sou vagabunda
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👀 estou interessada em treinar muito no vôlei e na academia.
+- 🌱 estou focada em aprender espanhol, pois tenho objetivos fora.
+- 💞️ pretendo colaborar com tudo que estiver ao meu alcance.
+- 📫 isabele.feliciano@escola.pr.gov.br
 <!---
 isinhadograu/isinhadograu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
